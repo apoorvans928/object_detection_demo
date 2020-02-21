@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>img8.jpg</filename>
+	<path>C:\Users\dell\tensorflow\models\research\labelImg\object detection\images\train\img8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>macncheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>19</ymin>
+			<xmax>178</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>
